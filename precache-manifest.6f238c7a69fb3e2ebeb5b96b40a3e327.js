@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1ad9ed244bb68bcef59b5b80c6c215c",
+    "revision": "5a4f08a34f187885a7eb79db8d52486c",
     "url": "/brainflix-deploy/index.html"
   },
   {
-    "revision": "63497fc2bb885a1d8a22",
+    "revision": "3709a21d8e7908b1659e",
     "url": "/brainflix-deploy/static/css/main.46a26941.chunk.css"
   },
   {
-    "revision": "9160e7cc803070c67fe7",
-    "url": "/brainflix-deploy/static/js/2.8e820d8b.chunk.js"
+    "revision": "09b8cdf71cfd8bd6b334",
+    "url": "/brainflix-deploy/static/js/2.e48141e8.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/brainflix-deploy/static/js/2.8e820d8b.chunk.js.LICENSE.txt"
+    "url": "/brainflix-deploy/static/js/2.e48141e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63497fc2bb885a1d8a22",
-    "url": "/brainflix-deploy/static/js/main.412cc04b.chunk.js"
+    "revision": "3709a21d8e7908b1659e",
+    "url": "/brainflix-deploy/static/js/main.4d9cb16f.chunk.js"
   },
   {
     "revision": "b362e0cb479ef8f319b7",
@@ -66,5 +66,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1e121e6bb74d3a6c39ed045da009ca40",
     "url": "/brainflix-deploy/static/media/Logo-brainflix.1e121e6b.svg"
+  },
+  {
+    "revision": "ba2f48f9885e020bc9bf2c8c442af56a",
+    "url": "/brainflix-deploy/static/media/Mohan-muruge.ba2f48f9.jpg"
+  },
+  {
+    "revision": "c814c81c34ab0a6574dffc33fcec7fa1",
+    "url": "/brainflix-deploy/static/media/Upload-video-preview.c814c81c.jpg"
   }
 ]);

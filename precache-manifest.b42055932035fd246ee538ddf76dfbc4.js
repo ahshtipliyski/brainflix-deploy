@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72f85fd5e33e02913daf6a7af31e2f92",
+    "revision": "2bc8529498f455a3a158c4a8b9af86ae",
     "url": "/brainflix-deploy/index.html"
   },
   {
-    "revision": "da853a99ddb99ecd10f4",
+    "revision": "85040d932f01d6085c60",
     "url": "/brainflix-deploy/static/css/main.46a26941.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brainflix-deploy/static/js/2.ed97a801.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da853a99ddb99ecd10f4",
-    "url": "/brainflix-deploy/static/js/main.9e838ac8.chunk.js"
+    "revision": "85040d932f01d6085c60",
+    "url": "/brainflix-deploy/static/js/main.949d6349.chunk.js"
   },
   {
     "revision": "b362e0cb479ef8f319b7",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/brainflix-deploy/static/css/main.46a26941.chunk.css",
-    "main.js": "/brainflix-deploy/static/js/main.a41fc2ac.chunk.js",
-    "main.js.map": "/brainflix-deploy/static/js/main.a41fc2ac.chunk.js.map",
+    "main.js": "/brainflix-deploy/static/js/main.9e838ac8.chunk.js",
+    "main.js.map": "/brainflix-deploy/static/js/main.9e838ac8.chunk.js.map",
     "runtime-main.js": "/brainflix-deploy/static/js/runtime-main.d31306b0.js",
     "runtime-main.js.map": "/brainflix-deploy/static/js/runtime-main.d31306b0.js.map",
     "static/js/2.ed97a801.chunk.js": "/brainflix-deploy/static/js/2.ed97a801.chunk.js",
     "static/js/2.ed97a801.chunk.js.map": "/brainflix-deploy/static/js/2.ed97a801.chunk.js.map",
     "index.html": "/brainflix-deploy/index.html",
-    "precache-manifest.39158c0219d428424248f6c8ea933c29.js": "/brainflix-deploy/precache-manifest.39158c0219d428424248f6c8ea933c29.js",
+    "precache-manifest.a34ec29b6b0fa145fa792177e844a6b2.js": "/brainflix-deploy/precache-manifest.a34ec29b6b0fa145fa792177e844a6b2.js",
     "service-worker.js": "/brainflix-deploy/service-worker.js",
     "static/css/main.46a26941.chunk.css.map": "/brainflix-deploy/static/css/main.46a26941.chunk.css.map",
     "static/js/2.ed97a801.chunk.js.LICENSE.txt": "/brainflix-deploy/static/js/2.ed97a801.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.d31306b0.js",
     "static/js/2.ed97a801.chunk.js",
     "static/css/main.46a26941.chunk.css",
-    "static/js/main.a41fc2ac.chunk.js"
+    "static/js/main.9e838ac8.chunk.js"
   ]
 }
